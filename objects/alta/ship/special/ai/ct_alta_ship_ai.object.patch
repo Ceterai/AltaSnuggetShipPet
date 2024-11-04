@@ -1,0 +1,3 @@
+[
+  {"op": "replace","path": "/shipPetType","value": "ct_alta_pet_snugget"}
+]

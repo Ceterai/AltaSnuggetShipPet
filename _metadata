@@ -1,0 +1,11 @@
+{
+  "author" : "Ceterai",
+  "description" : "A small mod that replaces alta ship pet drones with snuggets - kind-looking big fluffy creatures made from solar power.\n\nCurrently includes 18 variations (check the screenshots).\n\nRequires My Enternia to function.\n\nThat's it.",
+  "friendlyName" : "Alta Ship Pet - Snugget",
+  "includes" : ["my_enternia", "MyEnternia", "My Enternia"],
+  "link" : "steam://url/CommunityFilePage/3360051250",
+  "name" : "AltaSnuggetShipPet",
+  "steamContentId" : "3360051250",
+  "tags" : "NPCs and Creatures|Ships",
+  "version" : "1.0"
+}
